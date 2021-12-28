@@ -1,0 +1,12 @@
+h1{
+    color: aqua;
+    font-size: 40px;
+}
+.body_background{
+    background-color: linear-gradient(aqua,rgb(250, 6, 209),rgb(0, 255, 0),rgb(238, 255, 0)  );
+}
+#mycanvas{
+    boder_width: 10px;
+    background-color:aqua;
+    border-style: groove;
+}
